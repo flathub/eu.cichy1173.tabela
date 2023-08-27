@@ -57,5 +57,5 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/cichy1173/tabela-flatpak.git
-        tag: v1.0.9.2
-        commit: 9f5739784591e6fe0c971230d8db20b25e428eb1
+        tag: v1.0.9.3
+        commit: 2a451163ff6a22b79c7afc2f7a5c71c900a66f0c
